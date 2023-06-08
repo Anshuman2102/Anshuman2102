@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif)]
+![MasterHead](https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif)
 <h1 align="center">Hi 👋, I'm Anshuman Singh Adhikari</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE2OTMyNzZiZDU0NDdlYjhhNGNkMzFiZmQ1OTE2OTc4YTY2OWQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
